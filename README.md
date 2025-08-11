@@ -1,7 +1,7 @@
 
 # Olá, eu sou a Leticia! 👋
 ## 🚀 Sobre mim
-E aí galera, tenho 20 anos, moro em Suzano-SP e estou cursando análise e desenvolvimento de sistemas no 4º semestre.
+E aí galera, tenho 20 anos, moro em Suzano-SP e estou cursando análise e desenvolvimento de sistemas no 5º semestre.
 Atualmente venho gostando mais da área de backend, porém estou abertas para outras oportunidades.
 
 ## 🛠 Habilidades
